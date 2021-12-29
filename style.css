@@ -2,3 +2,18 @@ body {
     background-color: black;
     color: white;
 }
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+}
+
+input {
+    margin: 0 auto;
+    width: 50%;
+    height: 500px;
+    border-radius: 10px;
+}
