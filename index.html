@@ -5,11 +5,14 @@
         <link rel="stylesheet" href="./style.css" />
     </head>
     <body>
+        <script src="app.js"></script>
+
         <h1>The Infinite Monkey Theorem</h1>
+
         <form align="center">
-            <input type="text" placeholder="Enter your text and the monkeys will get to work!" class="text-box">
+            <input type="text" placeholder="Enter your text and the monkeys will get to work!" class="text-box" id="input" autocomplete="off">
             <br><br>
-            <input type="submit" value="Start!">
+            <input type="submit" value="Start!" onclick="getText()">
         </form>
     </body>
 </html>
