@@ -25,4 +25,5 @@ input[type=submit] {
     padding: 13px 20px;
     cursor: pointer;
     border-radius: 12px;
+    autocomplete:"off";
 }
