@@ -19,7 +19,7 @@ p {
     text-align: center;
 }
 
-input[type=submit] {
+input[type=button] {
     border: none;
     color: black;
     padding: 13px 20px;
