@@ -27,3 +27,7 @@ input[type=submit] {
     border-radius: 12px;
     autocomplete:"off";
 }
+
+form {
+    text-align: center;
+}
